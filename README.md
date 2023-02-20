@@ -16,7 +16,7 @@ want to expand its goals of including everyone
 - 🦀🌌 [rustronomy](https://github.com/smups/rustronomy) a data analysis toolkit for astronomy, written in rust it currently contains:
   - [rustronomy-fits](https://github.com/smups/rustronomy-fits) IO package for NASA's Flexible Image Transport System (FITS)
   - [rustronomy-watershed](https://github.com/smups/rustronomy-watershed) a pure rust implementation of the merging and segmenting watershed algorithms
-- 🍇🫐🍒🍎[gruber fruity](https://github.com/smups/gruber-fruity)🍊🍋🍐🫒🍧🌸 a minimalist ✨ *fruity* ✨ theme pack for vscode
+- 🍇🫐🍒🍎[gruber fruity](https://github.com/smups/gruberfruity)🍊🍋🍐🫒🍧🌸 a minimalist ✨ *fruity* ✨ theme pack for vscode
 
 Higgs said:
 $$
