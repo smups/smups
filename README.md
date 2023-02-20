@@ -2,7 +2,6 @@
 I'm Raúl Wolters, currently a MSc. Student in Cosmology at Leiden University in the Netherlands.
 
 ### 🤓 research interest
-I'm a fairly broadly interested within astronomy and (astronomy related) physics. Specifically, I've worked on:
 - The Interstellar medium - there's been a bunch of interesting research linking the HI emission field of our Galaxy's ISM to the actual density field.
 This connection is so non-trivial due to HISA, velocity caustics and quirks of radio telescopes. However, HI is a super interesting tracer of the - 
 as of yet - poorly understood dynamics of the ISM, which play a super important role in understanding our own galaxy in particular and the evolutionary history
