@@ -1,5 +1,5 @@
 ### 👋 `"hello, world!"`
-I'm Raúl Wolters, currently an MSc—student in Cosmology at Leiden University in the Netherlands.
+I'm Raúl, a PhD student studying the phase diagram of quantum chromodynamics and heavy-ion collisions at Utrecht University in the Netherlands.
 
 ### 🤓 research interest
 - Fundamental Physics
