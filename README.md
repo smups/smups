@@ -14,5 +14,5 @@ I'm Raúl, a PhD student studying the phase diagram of quantum chromodynamics an
 - 🍇🫐🍒🍎[gruber fruity](https://github.com/smups/gruberfruity)🍊🍋🍐🫒🍧🌸 a minimalist theme pack for vs code
 - 🌌 [inflatox](https://github.com/smups/inflatox) a rust-based python tool to evaluate if (and where!) two-field inflation theories are suitable for slow-roll, rapid-turn inflation.
 
-### Publications
+### 🧑🏼‍🔬 Publications
 ...
