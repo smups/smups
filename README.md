@@ -3,6 +3,7 @@ I'm Raúl, a PhD student studying the phase diagram of quantum chromodynamics an
 
 ### 🤓 research interest
 - Fundamental Physics
+- QCD
 - The Interstellar medium
 - Cosmology and Inflation
 - I ❤️ Rust
