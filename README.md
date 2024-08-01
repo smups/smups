@@ -15,4 +15,4 @@ I'm Raúl, a PhD student studying the hydrodynamics of heavy ion collisions (and
 - 🍇🫐🍒🍎[gruber fruity](https://github.com/smups/gruberfruity)🍊🍋🍐🫒🍧🌸 a minimalist theme pack for vs code
 
 ### 🧑🏼‍🔬 Publications
-- "Generalised conditions for rapid-turn inflation" (preprint) Raul Wolters, Oksana Iarygina, Ana Achúcarro [arXiv:2405.11628](https://arxiv.org/abs/2405.11628)
+- "Generalised conditions for rapid-turn inflation" Raul Wolters, Oksana Iarygina, Ana Achúcarro, Journal of Cosmology and Astroparticle Physics, JCAP07(2024)079 [arXiv:2405.11628](https://arxiv.org/abs/2405.11628)
